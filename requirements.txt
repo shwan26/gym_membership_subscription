@@ -1,0 +1,8 @@
+Flask
+cx_Oracle
+
+```pip install -r requirements.txt
+
+```download instantclient oracle to use oracle
+```change the file path where instantorcale locates 
+```export DYLD_LIBRARY_PATH=/path/to/instantclient_19_8:$DYLD_LIBRARY_PATH
